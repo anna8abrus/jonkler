@@ -12,5 +12,6 @@ Finally, ``<< std::endl`` appears at the end of this line. std::endl is a manipu
 
 The last line in the program, ``return 0;``, is the function’s return statement. As mentioned earlier, it signals that the program has completed successfully.
 
+## 👍👍🔥🔥🔥🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️💃💃🕺🕺❤️❤️↗️↗️↗️↗️
 
 24 verset 7
